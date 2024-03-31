@@ -1,0 +1,14 @@
+.\objects\param.o: ..\driver\src\param.c
+.\objects\param.o: ..\app\inc\includes.h
+.\objects\param.o: E:\app\keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\param.o: E:\app\keil\ARM\ARMCC\Bin\..\include\string.h
+.\objects\param.o: E:\app\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\param.o: E:\app\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\param.o: ..\app\inc\stm32f10x.h
+.\objects\param.o: ..\lib\CORE\core_cm3.h
+.\objects\param.o: ..\app\inc\system_stm32f10x.h
+.\objects\param.o: ..\device\inc\hal_i2c.h
+.\objects\param.o: ..\device\inc\hal_gpio.h
+.\objects\param.o: ..\driver\inc\param.h
+.\objects\param.o: ..\driver\inc\key.h
+.\objects\param.o: ..\driver\inc\oled.h

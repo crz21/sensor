@@ -1,0 +1,14 @@
+.\objects\hal_i2c.o: ..\device\src\hal_i2c.c
+.\objects\hal_i2c.o: ..\app\inc\includes.h
+.\objects\hal_i2c.o: E:\app\keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\hal_i2c.o: E:\app\keil\ARM\ARMCC\Bin\..\include\string.h
+.\objects\hal_i2c.o: E:\app\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\hal_i2c.o: E:\app\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\hal_i2c.o: ..\app\inc\stm32f10x.h
+.\objects\hal_i2c.o: ..\lib\CORE\core_cm3.h
+.\objects\hal_i2c.o: ..\app\inc\system_stm32f10x.h
+.\objects\hal_i2c.o: ..\device\inc\hal_i2c.h
+.\objects\hal_i2c.o: ..\device\inc\hal_gpio.h
+.\objects\hal_i2c.o: ..\driver\inc\param.h
+.\objects\hal_i2c.o: ..\driver\inc\key.h
+.\objects\hal_i2c.o: ..\driver\inc\oled.h
