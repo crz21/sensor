@@ -29,9 +29,10 @@ int main(void)
         sys_task();
 
         wireless_task();
-        
+
         key_task();
 
         oled_task();
     }
 }
+
